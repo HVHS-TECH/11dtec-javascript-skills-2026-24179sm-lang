@@ -3,7 +3,10 @@ Name of task:Task 2
 ****************************/
 console.log("Task 2")
 
-/Var name = "Alice"/
+console.log("Semiti")
+console.log("15y/o")
+
+
 
 
 /***************************
