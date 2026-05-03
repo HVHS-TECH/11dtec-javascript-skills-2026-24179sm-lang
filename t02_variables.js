@@ -3,7 +3,7 @@ Name of task:Task 2
 ****************************/
 console.log("Task 2")
 
-//Variables
+Var 
 
 
 /***************************
