@@ -3,7 +3,7 @@ Name of task:Task 2
 ****************************/
 console.log("Task 2")
 console.log("Semiti")
-console.log("15y/o")
+console.log("15")
 console.log("pocketmoney")
 console.log("2026")
 
