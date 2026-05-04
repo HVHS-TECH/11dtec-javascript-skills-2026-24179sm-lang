@@ -12,7 +12,7 @@ console.log( "You have 125, dollars" )
 console.log(" You were born in Tonga" )
 console.log("In 10 years you will be 25 years old ")
 console.log(" You spend half of your money, now you have 62 dollars ")
-console.log(" Then you get $3, now you have 65 dollars ")
+console.log(" Then you get $3, now you have 68 dollars ")
 
 //variables
 
