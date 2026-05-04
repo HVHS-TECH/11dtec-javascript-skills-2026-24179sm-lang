@@ -16,7 +16,7 @@ console.log(" Then you get $3, now you have 66 dollars ")
 
 //variables
 const OUTPUT = document.getElementbyId("JavascriptOutput");
-OUTPUT.innerHTML = "<h1><h2>Added by JavascriptM</h2><h1>"
+OUTPUT.innerHTML = "<p1>Hello + "Semiti"</h2"
 /********************** */
 Main
 /**********************/
