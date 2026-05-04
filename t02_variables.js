@@ -11,7 +11,7 @@ console.log("tongan")
 
 console.log("Hi")
 console.log("As of you are 15, years old ")
-console.log("You have 125, dollars")
+console.log("You have 126, dollars")
 
 
 //variables
