@@ -15,11 +15,11 @@ console.log(" You spend half of your money, now you have 63 dollars ")
 console.log(" Then you get $3, now you have 66 dollars ")
 
 //variables
-const OUTPUT = document.getElementbyId("JavascriptOutput");
-OUTPUT.innerHTML = "<h2>Hello + "Semiti"</h2>"
+const OUTPUT = document.getElementbyId("spaceForJavaScriptOutput");
+OUTPUT.innerHTML = "<h2>Hello world</h2>"
 
 
- <div id="spaceForJavaScriptOutput">
+
 
 /********************** */
 Main
