@@ -1,20 +1,27 @@
-/****************************
-Name of task:Task 2
-****************************/
-console.log("Task 2")
-console.log("Semiti")
-console.log("15")
-console.log("pocketmoney")
-console.log("2026")
+/**************************
+Name of Task 2
+/************************** */
+console.log("Task 2,")
+console.log(" semiti ") 
+console.log( 15, )
+console.log( 125, )
+console.log( 2026, )
+console.log("tongan")
 
 
-/***************************
-Main code
-****************************/
+console.log(Hi)
+console.log( "As of you are 15, years old ")
+console.log( "You have 125, dollars" )
+
+
+//variables
+
+/********************** */
+Main
+/**********************/
 
 
 
 
-/***************************
-Functions
-****************************/
+/******************************
+ functions
