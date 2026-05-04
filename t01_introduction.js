@@ -1,5 +1,5 @@
 /****************************
-Name of task:semiti
+Name of task: 1
 ****************************/
 console.log("Gods Work")
 
