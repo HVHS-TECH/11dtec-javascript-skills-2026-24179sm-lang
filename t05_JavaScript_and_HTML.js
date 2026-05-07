@@ -22,6 +22,7 @@ console.log(" Then you get $3, now you have 66 dollars ")
 
 //variables
 const OUTPUT = document.getElementById("spaceForJavaScriptOutput");
+
 OUTPUT.innerHTML = "<h2>Hello world</h2>"
 OUTPUT.innerHTML += "<p>Hello Semiti </p>";
 OUTPUT.innerHTML += "<p>Hello I'm Semiti and I love to play volleyball and rugby because im HIM </p>"
