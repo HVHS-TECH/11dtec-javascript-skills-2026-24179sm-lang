@@ -14,6 +14,12 @@ console.log("In 10 years you will be 25 years old ")
 console.log(" You spend half of your money, now you have 63 dollars ")
 console.log(" Then you get $3, now you have 66 dollars ")
 
+
+
+
+
+
+
 //variables
 const OUTPUT = document.getElementById("spaceForJavaScriptOutput");
 OUTPUT.innerHTML = "<h2>Hello world</h2>"
