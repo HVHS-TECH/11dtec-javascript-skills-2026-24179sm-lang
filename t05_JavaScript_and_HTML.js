@@ -18,7 +18,7 @@ console.log(" Then you get $3, now you have 66 dollars ")
 const OUTPUT = document.getElementById("spaceForJavaScriptOutput");
 OUTPUT.innerHTML = "<h2>Hello world</h2>"
 OUTPUT.innerHTML += "<p>Hello Semiti </p>";
-OUTPUT.innerHTML +="<p></p>"
+OUTPUT.innerHTML +="<p>Hello im </p>"
 
 
 /********************** */
