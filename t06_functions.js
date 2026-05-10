@@ -32,9 +32,7 @@ OUTPUT.innerHTML += "<p></p>"
 /******************************
  functions
  ******************************/
-function witeline(){
-    //Add a line to html page 
-    OUTPUT.innerHTML += "<p></p>"
+
 
 
 
