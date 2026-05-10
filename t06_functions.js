@@ -30,6 +30,8 @@ console.log(" Then you get $3, now you have 66 dollars ")
 
 
 
+
+
 //variables
 const OUTPUT = document.getElementById("spaceForJavaScriptOutput");
 
@@ -55,3 +57,6 @@ function welcome() {
     console.log("================================");
 }
 
+ welcome() {
+    alert("Welcome to JavaScript!");
+ }
