@@ -1,1 +1,40 @@
-/* Paste your code from task 5 here */
+/**************************
+Name of Task 5
+/************************** */
+console.log("Task 3,")
+console.log("Semiti") 
+console.log( 15, )
+console.log( 126, )
+console.log( 2025, )
+console.log("Tongan")
+console.log( "As of you are 15, years old ")
+console.log( "You have 126, dollars" )
+console.log(" You were born in Tonga" )
+console.log("In 10 years you will be 25 years old ")
+console.log(" You spend half of your money, now you have 63 dollars ")
+console.log(" Then you get $3, now you have 66 dollars ")
+
+
+
+
+
+
+
+//variables
+const OUTPUT = document.getElementById("spaceForJavaScriptOutput");
+
+OUTPUT.innerHTML = "<h2>Hello world</h2>"
+OUTPUT.innerHTML += "<p>Hello Semiti</p>";
+OUTPUT.innerHTML += "<p>Hello I'm Semiti and I love to play volleyball and rugby because im HIM </p>"
+OUTPUT.innerHTML += "<p>And being the man I am I enjoy playing with friends</p>"
+
+/********************** */
+Main
+/**********************/
+
+
+
+
+/******************************
+ functions
+ ******************************/
