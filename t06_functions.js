@@ -1,7 +1,7 @@
 /**************************
-Name of Task 5
+Name of Task 6
 /************************** */
-console.log("Task 3,")
+console.log("Task 6,")
 console.log("Semiti") 
 console.log( 15, )
 console.log( 126, )
@@ -28,13 +28,16 @@ OUTPUT.innerHTML += "<p>Hello Semiti</p>";
 OUTPUT.innerHTML += "<p></p>"
 OUTPUT.innerHTML += "<p></p>"
 
-/********************** */
-Main
-/**********************/
-
-
-
 
 /******************************
  functions
  ******************************/
+function witeline(){
+    //Add a line to html page 
+    OUTPUT.innerHTML += "<p></p>"
+
+
+
+ /********************** */
+Main code
+/**********************/
