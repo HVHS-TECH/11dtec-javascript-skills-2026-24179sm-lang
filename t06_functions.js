@@ -23,19 +23,22 @@ console.log(" Then you get $3, now you have 66 dollars ")
 //variables
 const OUTPUT = document.getElementById("spaceForJavaScriptOutput");
 
-OUTPUT.innerHTML = "<h2>Welcome</h2>"
+OUTPUT.innerHTML = "<h2>Welcome to the shop</h2>"
 OUTPUT.innerHTML += "<p>Hello Semiti</p>";
 OUTPUT.innerHTML += "<p></p>"
 OUTPUT.innerHTML += "<p></p>"
+
+
+
+ /********************** */
+Main 
+/**********************/
+
+
+
 
 
 /******************************
  functions
  ******************************/
 
-
-
-
- /********************** */
-Main code
-/**********************/
