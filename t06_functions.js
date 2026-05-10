@@ -40,22 +40,7 @@ OUTPUT.innerHTML += "<p>Hello Semiti</p>";
 OUTPUT.innerHTML += "<p>Hello I'm Semiti and I love to play volleyball and rugby because im HIM </p>"
 OUTPUT.innerHTML += "<p>And being the man I am I enjoy playing with friends</p>"
 
-/********************** */
-Main
-/**********************/
 
-
-
-console.log("Program started successfully.");
-
-
-// Function Definition
-function welcome() {
-    console.log("================================");
-    console.log(" Welcome to JavaScript Class! ");
-    console.log(" We are learning functions. ");
-    console.log("================================");
-}
 
  welcome() {
     alert("Welcome to JavaScript!");
