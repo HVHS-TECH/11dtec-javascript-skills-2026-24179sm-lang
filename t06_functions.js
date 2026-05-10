@@ -25,8 +25,8 @@ const OUTPUT = document.getElementById("spaceForJavaScriptOutput");
 
 OUTPUT.innerHTML = "<h2>Welcome</h2>"
 OUTPUT.innerHTML += "<p>Hello Semiti</p>";
-OUTPUT.innerHTML += "<p>Hello I'm Semiti and I love to play volleyball and rugby because im HIM </p>"
-OUTPUT.innerHTML += "<p>And being the man I am I enjoy playing with friends</p>"
+OUTPUT.innerHTML += "<p></p>"
+OUTPUT.innerHTML += "<p></p>"
 
 /********************** */
 Main
