@@ -1,7 +1,7 @@
 /**************************
 Name of Task 5
 /************************** */
-console.log("Task 3,")
+console.log("Task 5,")
 console.log("Semiti") 
 console.log( 15, )
 console.log( 126, )
