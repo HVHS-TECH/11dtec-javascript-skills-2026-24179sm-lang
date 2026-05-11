@@ -3,7 +3,7 @@ Name of Task 6
 /************************** */
 
 
-<button onClick="start()">Start</button>
+<buttononClick="start()">Start</button>
 
 console.log("Task 9,")
 console.log("Semiti") 
