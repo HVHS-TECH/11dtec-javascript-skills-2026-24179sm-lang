@@ -24,5 +24,5 @@ Functions
 **********************/
 
 function welcome() {
-    OUTPUT.innerHTML = "<h2>Welcome to the shop</h2>";
+    OUTPUT.innerHTML = "<h2>Hello</h2>";
 }
