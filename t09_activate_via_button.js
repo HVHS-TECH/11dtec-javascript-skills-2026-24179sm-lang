@@ -3,7 +3,8 @@ Name of Task 6
 /************************** */
 
 
-<button onClick="start()">Start</button>
+<button onclick="start()">Start</button>
+
 
 console.log("Task 9,")
 console.log("Semiti") 
@@ -20,8 +21,6 @@ Main
 <p>Open the console <code>(Ctrl-shift-i</code>
  <div id="spaceForJavaScriptOutput"></div>
 
-welcome();
-
 /**********************
 Functions
 **********************/
@@ -32,6 +31,8 @@ answer = 2026 - "Semiti Mau"
 spaceforjavascriptOutput.innerHTML
 }
 
+function start() {
+  console.log("Started");
 
 
 
