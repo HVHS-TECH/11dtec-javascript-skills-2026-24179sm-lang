@@ -21,6 +21,15 @@ Main
 <p>Open the console <code>(Ctrl-shift-i</code>
  <div id="spaceForJavaScriptOutput"></div>
 
+document.body.innerHTML =
+  '<button onclick="start()">Start</button>';
+
+function start() {
+  console.log("Task 9");
+}
+
+
+
 /**********************
 Functions
 **********************/
@@ -37,7 +46,7 @@ function start() {
 
 
 function welcome() {
-    OUTPUT.innerHTML = "<h2>Welcome to the shop</h2>";
+    OUTPUT.innerHTML = "<h2>Welcome to shop</h2>";
 
 
 }
