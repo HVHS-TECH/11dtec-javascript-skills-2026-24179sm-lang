@@ -3,7 +3,7 @@ Name of Task 6
 /************************** */
 
 
-<button onClick="start()">START</button>
+<button onClick="start()">Start</button>
 
 console.log("Task 9,")
 console.log("Semiti") 
@@ -18,7 +18,6 @@ const OUTPUT = document.getElementById("spaceForJavaScriptOutput");
 Main
 **********************/
 <p>Open the console <code>(Ctrl-shift-i</code>
-<button onClick="start()">START</button>
  <div id="spaceForJavaScriptOutput"></div>
 
 welcome();
