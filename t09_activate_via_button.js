@@ -1,9 +1,6 @@
 /**************************
-Name of Task 6
+Name of Task 9
 /************************** */
-
-
-<button onclick="start()">Start</button>
 
 
 console.log("Task 9,")
@@ -18,9 +15,6 @@ const OUTPUT = document.getElementById("spaceForJavaScriptOutput");
 /**********************
 Main
 **********************/
-<p>Open the console <code>(Ctrl-shift-i</code>
- <div id="spaceForJavaScriptOutput"></div>
-<button onclick="start()">Start</button>
 
 
 
@@ -39,13 +33,8 @@ answer = 2026 - "Semiti Mau"
 spaceforjavascriptOutput.innerHTML
 }
 
-function start() {
-  console.log("Started");
-
 
 
 function welcome() {
     OUTPUT.innerHTML = "<h2>Welcome to shop</h2>";
-
-
 }
