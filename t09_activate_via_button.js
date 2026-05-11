@@ -3,19 +3,12 @@ Name of Task 6
 /************************** */
 
 
+<button onClick="start()">START</button>
 
-console.log("Task 6,")
+console.log("Task 9,")
 console.log("Semiti") 
 console.log( 15, )
-console.log( 126, )
-console.log( 2025, )
-console.log("Tongan")
-console.log( "As of you are 15, years old ")
-console.log( "You have 126, dollars" )
-console.log(" You were born in Tonga" )
-console.log("In 10 years you will be 25 years old ")
-console.log(" You spend half of your money, now you have 63 dollars ")
-console.log(" Then you get $3, now you have 66 dollars ")
+
 
 
 //variables
@@ -24,13 +17,27 @@ const OUTPUT = document.getElementById("spaceForJavaScriptOutput");
 /**********************
 Main
 **********************/
+<p>Open the console <code>(Ctrl-shift-i</code>
+<button onClick="start()">START</button>
+ <div id="spaceForJavaScriptOutput"></div>
 
 welcome();
 
 /**********************
 Functions
 **********************/
+function start(){
+spaceforjavascriptOutput.innerHTML
+spaceforjavascriptOutput.innerHTML
+answer = 2026 - "Semiti Mau"
+spaceforjavascriptOutput.innerHTML
+}
+
+
+
 
 function welcome() {
     OUTPUT.innerHTML = "<h2>Welcome to the shop</h2>";
+
+
 }
