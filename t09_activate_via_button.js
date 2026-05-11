@@ -13,14 +13,9 @@ console.log( 15, )
 const OUTPUT = document.getElementById("spaceForJavaScriptOutput");
 
 /**********************
-Main
+Main code
 **********************/
 
-
-
-function start() {
-  console.log("Task 9");
-}
 
 
 
@@ -28,6 +23,7 @@ function start() {
 Functions
 **********************/
 function start(){
+spaceforjavascriptOutput.innerHTML
 spaceforjavascriptOutput.innerHTML
 answer = 2026 - "Semiti Mau"
 spaceforjavascriptOutput.innerHTML
