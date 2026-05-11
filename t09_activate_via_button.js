@@ -20,9 +20,9 @@ Main
 **********************/
 <p>Open the console <code>(Ctrl-shift-i</code>
  <div id="spaceForJavaScriptOutput"></div>
+<button onclick="start()">Start</button>
 
-document.body.innerHTML =
-  '<button onclick="start()">Start</button>';
+
 
 function start() {
   console.log("Task 9");
@@ -34,7 +34,6 @@ function start() {
 Functions
 **********************/
 function start(){
-spaceforjavascriptOutput.innerHTML
 spaceforjavascriptOutput.innerHTML
 answer = 2026 - "Semiti Mau"
 spaceforjavascriptOutput.innerHTML
