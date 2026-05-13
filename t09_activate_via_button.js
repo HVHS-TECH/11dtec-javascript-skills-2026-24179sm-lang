@@ -22,12 +22,7 @@ Main code
 /**********************
 Functions
 **********************/
-function start(){
-spaceforjavascriptOutput.innerHTML
-spaceforjavascriptOutput.innerHTML
-answer = 2026 - "Semiti Mau"
-spaceforjavascriptOutput.innerHTML
-}
+
 
 
 
