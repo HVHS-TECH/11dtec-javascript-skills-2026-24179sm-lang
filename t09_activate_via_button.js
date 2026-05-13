@@ -3,6 +3,7 @@ Name of Task 9
 /************************** */
 
 
+
 console.log("Task 9,")
 console.log("Semiti") 
 console.log( 15, )
@@ -31,9 +32,9 @@ function start()
     // Functional code
     let Semiti = prompt("Malo e lelei My name is semiti?");
 
-    console.log("Semiti did all this" + 24179sm);
+    console.log("Semiti did all this" + "Semiti");
 
-    alert("Hello " + Semitit + "I was here");
+    alert("Hello " + "Semiti" + "I was here");
 }
 
 
