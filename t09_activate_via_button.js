@@ -11,7 +11,10 @@ console.log( 15, )
 
 
 //variables
-const OUTPUT = document.getElementById("spaceForJavaScriptOutput");
+const startButton = document.getElementById("startButton");
+
+startButton.addEventListener("click", function() {
+  alert("Started!");
 
 /**********************
 Main code
@@ -35,11 +38,6 @@ function start()
     console.log("Semiti did all this" + "Semiti");
 
     alert("Hello " + "Semiti" + "I was here");
-}
 
 
 
-
-function welcome() {
-    OUTPUT.innerHTML = "<h2>Welcome to shop</h2>";
-}
