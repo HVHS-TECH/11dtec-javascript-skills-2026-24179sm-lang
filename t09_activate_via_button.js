@@ -28,16 +28,22 @@ console.log("JavaScript file loaded successfully!");
 /**********************
 Functions
 **********************/
+function startGame() {
+    alert("Game Started!");
+
+
+
+
 function start()
 {
     console.log("Start button was pressed!");
 
     // Functional code
-    let Semiti = prompt("Malo e lelei My name is semiti?");
-
+    let JavaScript = prompt("Malo e lelei My name is semiti?");
     console.log("Semiti did all this" + "Semiti");
 
-alert("Game Started!");
+
+
 
 
 
