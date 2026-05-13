@@ -37,7 +37,7 @@ function start()
 
     console.log("Semiti did all this" + "Semiti");
 
-    alert("Hello " + "Semiti" + "I was here");
+alert("Game Started!");
 
 
 
