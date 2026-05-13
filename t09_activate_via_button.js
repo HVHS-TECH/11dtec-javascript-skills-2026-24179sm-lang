@@ -24,7 +24,7 @@ console.log("JavaScript file loaded successfully!");
 
   
   <div id="spaceForJavaScriptOutput">
-  
+  document.getElementById("output").innerHTML = "The output of your script will go here.";
   </div>
 
 
