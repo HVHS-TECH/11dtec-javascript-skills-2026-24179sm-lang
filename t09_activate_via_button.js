@@ -22,7 +22,10 @@ Main code
 
 console.log("JavaScript file loaded successfully!");
 
-// start function
+  
+  <div id="spaceForJavaScriptOutput">
+  
+  </div>
 
 
 /**********************
