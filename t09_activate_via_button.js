@@ -16,12 +16,25 @@ const OUTPUT = document.getElementById("spaceForJavaScriptOutput");
 Main code
 **********************/
 
+console.log("JavaScript file loaded successfully!");
 
+// start function
 
 
 /**********************
 Functions
 **********************/
+function start()
+{
+    console.log("Start button was pressed!");
+
+    // Functional code
+    let Semiti = prompt("Malo e lelei My name is semiti?");
+
+    console.log("Semiti did all this" + 24179sm);
+
+    alert("Hello " + Semitit + "I was here");
+}
 
 
 
