@@ -2,7 +2,7 @@
 Name of Task 9
 /************************** */
 
-
+<button onClick="start()">START</button>
 
 console.log("Task 9,")
 console.log("Semiti") 
@@ -20,12 +20,12 @@ startButton.addEventListener("click", function() {
 Main code
 **********************/
 
-console.log("JavaScript file loaded successfully!");
 
-  
-  <div id="spaceForJavaScriptOutput">
-  document.getElementById("output").innerHTML = "The output of your script will go here.";
-  </div>
+
+
+<div id="spaceForJavaScriptOutput"></div>
+
+console.log("JavaScript file loaded successfully!");
 
 
 /**********************
@@ -45,6 +45,8 @@ function start()
     let JavaScript = prompt("Malo e lelei My name is semiti?");
     console.log("Semiti did all this" + "Semiti");
 
+
+<p> Open the console <code>(Ctrl-Shift-i)</code></p>
 
 
 
