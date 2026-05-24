@@ -1,54 +1,56 @@
-/**************************
-Name of Task 9
-/************************** */
+<Document html>
 
-<button onClick="start()">START</button>
+  
+<html>
+<head>
+    <title>Task 9</title>
+</head>
+<body>
 
-console.log("Task 9,")
-console.log("Semiti") 
-console.log( 15, )
+    <h1>Task 9</h1>
 
+    <!-- Start Button -->
+    <button id="startButton">START</button>
 
+    <!-- Output Area -->
+    <div id="spaceForJavaScriptOutput"></div>
 
-//variables
-const startButton = document.getElementById("startButton");
+    <p>Open the console <code>(Ctrl + Shift + I)</code></p>
 
-startButton.addEventListener("click", function() {
-  alert("Started!");
+    <script>
+        /**************************
+        Name of Task 9
+        **************************/
 
-/**********************
-Main code
-**********************/
+        console.log("Task 9");
+        console.log("Semiti");
+        console.log(15);
 
+        // Variables
+        const startButton = document.getElementById("startButton");
 
+        // Button Event
+        startButton.addEventListener("click", start);
 
+        /**********************
+        Functions
+        **********************/
 
-<div id="spaceForJavaScriptOutput"></div>
+        function start() {
+            console.log("Start button was pressed!");
 
-console.log("JavaScript file loaded successfully!");
+            alert("Game Started!");
 
+            let JavaScript = prompt("Malo e lelei! My name is Semiti.");
 
-/**********************
-Functions
-**********************/
-function startGame() {
-    alert("Game Started!");
+            console.log("User typed: " + JavaScript);
 
+            document.getElementById("spaceForJavaScriptOutput").innerHTML =
+                "Hello " + JavaScript + "!";
+        }
 
+        console.log("JavaScript file loaded successfully!");
+    </script>
 
-
-function start()
-{
-    console.log("Start button was pressed!");
-
-    // Functional code
-    let JavaScript = prompt("Malo e lelei My name is semiti?");
-    console.log("Semiti did all this" + "Semiti");
-
-
-<p> Open the console <code>(Ctrl-Shift-i)</code></p>
-
-
-
-
-
+</body>
+</html>
