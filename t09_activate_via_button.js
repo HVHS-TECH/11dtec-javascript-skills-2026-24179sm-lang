@@ -4,7 +4,7 @@ Name of Task 9
 **************************/
 
 console.log("Task 9");
-console.log("Daniel");
+console.log("semiti");
 
 let OUTPUT;
 
