@@ -6,6 +6,8 @@ Name of Task 10
 console.log("Task 10");
 console.log("SEMITI");
 
+
+
 let OUTPUT;
 
 /**********************
