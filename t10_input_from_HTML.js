@@ -1,7 +1,4 @@
 
-/**************************
-Name of Task 10
-**************************/
 
 console.log("Task 10");
 console.log("SEMITI");
@@ -40,7 +37,7 @@ function start() {
     OUTPUT.innerHTML += "You were born in " + answer + "<br>";
 }
 
-
+<img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600"></img>
 
 
 
