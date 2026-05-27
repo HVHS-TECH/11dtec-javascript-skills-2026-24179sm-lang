@@ -1,16 +1,19 @@
 <!DOCTYPE html>
 <html lang="en">
 
+
 <head>
   <title>T09-activate via button</title>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
 
   <style>
     body {
       font-family: Arial, sans-serif;
       padding: 20px;
     }
+
 
     /* BLUE START BUTTON */
     button {
@@ -23,9 +26,11 @@
       cursor: pointer;
     }
 
+
     button:hover {
       background-color: darkblue;
     }
+
 
     #spaceForJavaScriptOutput {
       margin-top: 20px;
@@ -35,18 +40,29 @@
   </style>
 </head>
 
+
 <body>
+
+
   <h1>T09-activate via button</h1>
+
 
   <p>Open the console (Ctrl-Shift-I) to see the messages.</p>
 
-  
 
-<button onclick="start()">START</button>
+  <!-- START BUTTON -->
+  <button onclick="start()">START</button>
 
-<div id="spaceForJavaScriptOutput"></div>
 
-  <script>"../t09_activate_via_button.js"</script>
+  <!-- OUTPUT AREA -->
+  <div id="spaceForJavaScriptOutput">
+    The output of your script will go here.
+  </div>
+
+
+  <!-- LINK TO JAVASCRIPT -->
+<script src="../t09_activate_via_button.js"></script>
+
 
 </body>
 </html>
