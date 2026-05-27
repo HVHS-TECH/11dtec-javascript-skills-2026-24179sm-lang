@@ -22,7 +22,7 @@ function start() {
     OUTPUT.innerHTML = "";
 
     let age = 15;
-    let money = 125;
+    let money = 126;
     let currentYear = 2026;
 
     OUTPUT.innerHTML += "As of now you are " + age + " years old <br>";
