@@ -34,8 +34,8 @@ function start() {
     money = Math.floor(money / 2);
     OUTPUT.innerHTML += "You spend half of your money, now you have " + money + " dollars <br>";
 
-    money = money + 4;
-    OUTPUT.innerHTML += "Then you get $4, now you have " + money + " dollars <br>";
+    money = money + 3;
+    OUTPUT.innerHTML += "Then you get $3, now you have " + money + " dollars <br>";
 
     answer = currentYear - age;
     OUTPUT.innerHTML += "You were born in " + answer + "<br>";
