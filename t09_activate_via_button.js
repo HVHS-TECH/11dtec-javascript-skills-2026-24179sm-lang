@@ -27,7 +27,7 @@ function start() {
 
     OUTPUT.innerHTML += "As of now you are " + age + " years old <br>";
     OUTPUT.innerHTML += "You have " + money + " dollars <br>";
-    OUTPUT.innerHTML += "You were born in Ecuador <br>";
+    OUTPUT.innerHTML += "You were born in Tonga <br>";
 
     OUTPUT.innerHTML += "In 10 years you will be " + (age + 10) + " years old <br>";
 
