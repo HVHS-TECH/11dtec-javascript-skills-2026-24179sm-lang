@@ -1,5 +1,4 @@
 
-
 console.log("Task 10");
 console.log("SEMITI");
 
@@ -36,9 +35,6 @@ function start() {
     answer = currentYear - age;
     OUTPUT.innerHTML += "You were born in " + answer + "<br>";
 }
-
-
-
 
 
 
