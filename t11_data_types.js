@@ -37,16 +37,13 @@ function start() {
 }
 
 
-
-
-
-
-
 function start() {
 
     const OUTPUT = document.getElementById("spaceForJavaScriptOutput")
     OUTPUT.innerHTML = "<h2>How are you.</h2>"
 }               
+
+
 
 function getFormInput(){
 const NAME_FIELD = document.getElementById("nameField");
@@ -56,6 +53,6 @@ let userName = NAME_FIELD.value;
 let userAge = AGE_FIELD.value;
 let userMoney = MONEY_FIELD.value;
 
-OUTPUT.innerHTML ="<h2>Welcome to the Shop, "+userName+". You are "+userAge+" years old. You have "+userMoney+" dollars.</h2>";   
 
+OUTPUT.innerHTML ="<h2>Welcome to the Shop, "+userName+". You are "+userAge+" years old. You have "+userMoney+" dollars.</h2>";   
 }
