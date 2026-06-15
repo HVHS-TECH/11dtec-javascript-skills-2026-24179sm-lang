@@ -53,3 +53,13 @@ let userAge = AGE_FIELD.value;
 let userMoney = MONEY_FIELD.value;
  OUTPUT.innerHTML ="<h2>Welcome to the Shop, "+userName+". You are "+userAge+" years old. You have "+userMoney+" dollars.</h2>"; 
 }
+
+
+
+
+
+
+
+
+
+
