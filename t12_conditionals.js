@@ -51,15 +51,13 @@ const MONEY_FIELD = document.getElementById("moneyField");
 let userName = NAME_FIELD.value;
 let userAge = AGE_FIELD.value;
 let userMoney = MONEY_FIELD.value;
- OUTPUT.innerHTML ="<h2>Welcome to the Shop, "+userName+". You are "+userAge+" years old. You have "+userMoney+" dollars.</h2>"; 
+ OUT
+ PUT.innerHTML ="<h2>Welcome to the Shop, "+userName+". You are "+userAge+" years old. You have "+userMoney+" dollars.</h2>"; 
 }
 
-
-
-
-
-
-
-
-
-
+if (userMoney >= 4) {
+OUTPUT.innerHTML = "<h2>Welcome to the Shop, " + userName + ". You are " + userAge + " years old. You have " + userMoney + " dollars.You can buy a $4 chocolate Bar. </h2>";
+ }
+else{
+OUTPUT.innerHTML = "<h2>Welcome to the Shop, " + userName + ". You are " + userAge + " years old. You have " + userMoney + " dollars.You can't even afford a chocolate Bar. Get Out!!</h2>";
+    }
