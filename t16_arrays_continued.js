@@ -28,12 +28,12 @@ function showList() {
      OUTPUT.innerHTML +=""
      OUTPUT.innerHTML +=""
      OUTPUT.innerHTML +=""
-    OUTPUT.innerHTML += "<br>Chocolate cookie $5</br>"
-    OUTPUT.innerHTML +="<br>Cappuccino $4</br>"
-    OUTPUT.innerHTML +="<br>Flat white $4</br>"
+    OUTPUT.innerHTML += "<br>Chocolate milkshake $5</br>"
+    OUTPUT.innerHTML +="<br> $4</br>"
+    OUTPUT.innerHTML +="<br> Monster $4</br>"
     OUTPUT.innerHTML +="<br>Hot chocolate $4</br>"
     OUTPUT.innerHTML +="<br>Water $3</br>"
-    OUTPUT.innerHTML +="<br>Orange juice $4</br>"
+    OUTPUT.innerHTML +="<br> $4</br>"
     
 
 
