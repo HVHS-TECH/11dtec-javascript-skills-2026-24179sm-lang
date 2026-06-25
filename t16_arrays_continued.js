@@ -3,7 +3,7 @@ Task 16 - Arrays 2
 **************************/
 
 console.log("Task 16");
-console.log("Daniel");
+console.log("semiti");
 
 let OUTPUT;
 let shoppingList = [];
